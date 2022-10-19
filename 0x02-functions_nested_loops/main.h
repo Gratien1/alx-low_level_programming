@@ -1,8 +1,5 @@
-#include MAIN_H                                                            
-
+#include MAIN_H
 #define MAINE_H                                                            
-
-																		   
 
 void print_alphabet (void);                                                
 
@@ -14,7 +11,7 @@ int _isalpha (int c);
 
 int print_sign (int n);                                                    
 
-int _abs ( int );                                                          
+int _abs (int);                                                          
 
 int print_last_digit (int);                                                
 
@@ -24,8 +21,6 @@ void time_table (void);
 
 int pdd (int;int);                                                         
 
-void print_to_98( int n);                                                  
-
-																		   
+void print_to_98(int n);
 
 #endif
