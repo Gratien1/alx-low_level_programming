@@ -2,7 +2,7 @@
 
 /**
  * main - print _putchar
- * is prints putchar followed by a new line
+ * is written by bwave
  * Return: 0
  */
 
@@ -15,8 +15,7 @@ _putchar('t');
 _putchar('c');
 _putchar('h');
 _putchar('a');
-_putchar('a');
+_putchar('r');
 _putchar('\n');
 return (0);
-
 }
