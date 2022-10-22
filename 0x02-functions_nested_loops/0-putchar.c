@@ -5,7 +5,7 @@
  * is written by bwave
  * Return: 0
  */
-int main()
+int main(void)
 {
 	_putchar('_');
 	_putchar('p');
