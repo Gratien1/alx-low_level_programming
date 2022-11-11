@@ -11,6 +11,7 @@ char *_memcpy(char *dest, char *src, unsigned int n);
 void *_realloc(void *ptr, unsigned int old_size, unsigned int new_size)
 {
 	char *newptr;
+
 	if (ptr == NULL)
 		return (malloc(new_size));
 	if (new_size == 0)
@@ -40,6 +41,5 @@ char *_memcpy(char *dest, char *src, unsigned int n)
 
 	for (i = 0; i < n; i++)
 		dest[i] = src[i];
-
 	return (dest);
 }
