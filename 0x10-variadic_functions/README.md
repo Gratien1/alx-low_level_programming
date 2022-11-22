@@ -1,1 +1,1 @@
-Variadic functions
+Iariadic functions grat
