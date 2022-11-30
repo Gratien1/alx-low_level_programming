@@ -27,4 +27,4 @@ int pop_listint(listint_t **head)
 	*head = h;
 
 	return (hnode);
-	}
+}
